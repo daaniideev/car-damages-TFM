@@ -7,4 +7,11 @@ Contiene los tres Notebooks utilizados en el proyecto. Estos son:
 - 3_Script_final.ipynb: Notebook dedicado a la integración de los dos modelos para obtener el modelo final.
 
 ## car_parts: 
-- train: 
+- train: Carpeta con información del entrenamiento del modelo de deteccion de partes de coches.
+- tune: Carpeta con información del tunning del modelo de deteccion de partes de coches.
+- validation: Carpeta con información de la evaluación del modelo de deteccion de partes de coches.
+
+## car_damages: 
+- train: Carpeta con información del entrenamiento del modelo de deteccion de daños de coches.
+- tune: Carpeta con información del tunning del modelo de deteccion de daños de coches.
+- validation: Carpeta con información de la evaluación del modelo de deteccion de daños de coches.
