@@ -13,3 +13,7 @@ Contiene los tres Notebooks utilizados en el proyecto. Estos son:
 ## car_damages: 
 - train: Carpeta con información del entrenamiento del modelo de deteccion de daños de coches.
 - validation: Carpeta con información de la evaluación del modelo de deteccion de daños de coches.
+
+## backend: 
+- main.py: Script que contiene la el backend de la aplicación web creada y el endpoint del modelo creado.
+- functions.py: Script que contiene funciones utilizadas en el script 'main.py'.
