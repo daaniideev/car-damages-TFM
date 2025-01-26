@@ -8,10 +8,8 @@ Contiene los tres Notebooks utilizados en el proyecto. Estos son:
 
 ## car_parts: 
 - train: Carpeta con información del entrenamiento del modelo de deteccion de partes de coches.
-- tune: Carpeta con información del tunning del modelo de deteccion de partes de coches.
 - validation: Carpeta con información de la evaluación del modelo de deteccion de partes de coches.
 
 ## car_damages: 
 - train: Carpeta con información del entrenamiento del modelo de deteccion de daños de coches.
-- tune: Carpeta con información del tunning del modelo de deteccion de daños de coches.
 - validation: Carpeta con información de la evaluación del modelo de deteccion de daños de coches.
