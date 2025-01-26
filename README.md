@@ -2,8 +2,9 @@ Este repositorio contiene todo el código utilizado en el Trabajo Final de Maste
 
 ## Notebooks: 
 Contiene los tres Notebooks utilizados en el proyecto. Estos son:
-- 1_Entrenamiento_car_parts.ipynb
-- 2_Entrenamiento_car_damages.ipynb
-- 3_Script_final.ipynb
+- 1_Entrenamiento_car_parts.ipynb: Notebook dedicado al entrenamiento del modelo de detección de partes de coches.
+- 2_Entrenamiento_car_damages.ipynb: Notebook dedicado al entrenamiento del modelo de detección de daños de coches.
+- 3_Script_final.ipynb: Notebook dedicado a la integración de los dos modelos para obtener el modelo final.
 
-## Notebooks: 
+## car_parts: 
+- train: 
